@@ -7,6 +7,9 @@ The Gamified Courses smart contract is designed to incentivize learning by rewar
 ## Contract Address
 0x60dBFfbbDB0ecFfa5401950ca1226007158aE7e5
 
+![image](https://github.com/user-attachments/assets/8529534d-fae4-4e8a-8467-7af8bb254f9b)
+
+
 ## Project Vision
 In a world where online learning has become the norm, maintaining learner motivation is a challenge. Our vision is to:
 
